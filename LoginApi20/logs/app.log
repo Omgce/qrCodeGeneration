@@ -1,0 +1,5 @@
+2023-12-04 17:27:53,999 INFO com.login.LoginRestApiApplication [restartedMain] Started LoginRestApiApplication in 4.456 seconds (JVM running for 5.248)
+2023-12-04 17:31:42,798 INFO com.login.LoginRestApiApplication [restartedMain] Starting LoginRestApiApplication using Java 17.0.7 on DESKTOP-TR7VJMR with PID 816 (C:\sts-4.19.1\MyProjects\LoginApi20\target\classes started by mypc in C:\sts-4.19.1\MyProjects\LoginApi20)
+2023-12-04 17:31:42,798 DEBUG com.login.LoginRestApiApplication [restartedMain] Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-12-04 17:31:42,798 INFO com.login.LoginRestApiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-12-04 17:31:43,601 INFO com.login.LoginRestApiApplication [restartedMain] Started LoginRestApiApplication in 0.833 seconds (JVM running for 234.849)
